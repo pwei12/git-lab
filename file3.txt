@@ -1,0 +1,2 @@
+This is new feature in file3.txt
+trying out git checkout
